@@ -1,0 +1,44 @@
+h1{
+    margin-left: 650px;
+}
+.size{
+    width: 700px;
+    justify-items: center;
+    margin-left: 450px;
+    border: 5px solid red;
+}
+.back{
+   background-image: url(https://us.123rf.com/450wm/lmv/lmv1208/lmv120800017/14957881-design-the-menu-background-vintage-paper.jpg);
+    background-size: contain;
+}
+.flex{
+    display: flex;
+}
+img{
+    margin-left: 25px;
+    margin-top: 25px;
+    border: 5px solid yellow;
+}
+.speace{
+    width: 220px;
+    height: 200px;
+    margin-top: 25px;
+}
+p{
+    margin-left: 25px;
+    font-size: 17px;
+    text-align: center;
+}
+.label{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 100px;
+    padding-left: 25px;
+}
+input{
+    margin-left:20px;
+    padding-right: 5px;
+}
+.big{
+    font-size: 80px;
+}
